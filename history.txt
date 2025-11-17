@@ -1,0 +1,54 @@
+    1  ls
+    2  cd foldername
+    3  cd documents
+    4  cd ..
+    5  cd documents
+    6  ls-al
+    7  as -al
+    8  ls -al
+    9  mkdir
+   10  mkdir foldername
+   11  mkdir SANTOS
+   12  cd ..
+   13  cd documents
+   14  ls -al
+   15  mkdir SANTOS
+   16  cd SANTOS
+   17  ls
+   18  touch test.txt
+   19  touch readme.md
+   20  ls
+   21  rm test.txt
+   22  ls
+   23  start readme.md
+   24  git config --global user.name "lnceedsh"
+   25  git config --global user.name "lnceedsh"
+   26  git config --global user.email "lanceedash@icloud.com"
+   27  git config --global user.name
+   28  git config --global user.email
+   29  get init
+   30  git init
+   31  git add readme.md
+   32  git commit -m "first commit"
+   33  git branch -m main
+   34  git remote add origin https://github.com/lnceedsh/SANTOS.git
+   35  git push -u origin main
+   36  git status
+   37  git status
+   38  ls
+   39  git status
+   40  git add
+   41  git status
+   42  git add readme.md
+   43  git status
+   44  git status
+   45  git add .
+   46  git status
+   47  git commit -m "2nd commit"
+   48  git push
+   49  ls
+   50  git clone https://github.com/lnceedsh/SANTOS.git
+   51  cd ..
+   52  git clone https://github.com/lnceedsh/SANTOS.git
+   53  cd SANTOS
+   54  history
